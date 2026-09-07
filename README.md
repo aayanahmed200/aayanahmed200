@@ -2,8 +2,6 @@
 
 AI and education technology, mostly. I build offline-first AI systems and try to make sure low-resource languages don't get left out of the conversation — and every project below ships with real tests, an honest README about what actually works, and an MIT license.
 
-[LinkedIn](https://www.linkedin.com/in/aayanahmed20) · [GitHub](https://github.com/aayanahmed200)
-
 ## What I'm building
 
 **[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model's downloaded, it runs entirely on-device: no internet connection, no cloud dependency to hold a conversation, and a small dependency-free knowledge engine as a safety net when no model is loaded yet.
@@ -20,7 +18,7 @@ Four projects built for the Stanford Daily Tech Bootcamp:
 
 **[Stanford Daily: Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — a short story built on top of 139 real campus police-blotter reports, about what the fixed categories and codes of institutional crime reporting quietly leave out.
 
-**[Stanford Daily: Big Local ICE Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — a data extraction and validation pipeline that turns ICE press releases into structured records (who, when, where) for accountability reporting, built for a data journalism assignment.
+**[Stanford Daily: Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — a data extraction and validation pipeline that turns ICE press releases into structured records (who, when, where) for accountability reporting, built for a data journalism assignment.
 
 **[Stanford Daily: PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — an exploratory analysis of Plastic List's food chemical testing data, looking at how Stanford dining hall samples compare to everything else tested.
 
