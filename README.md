@@ -4,6 +4,8 @@ AI and education technology, mostly. I build offline-first AI systems and try to
 
 ## What I'm building
 
+**[arthic](https://github.com/aayanahmed200/arthic)** — the production site for arthic.tech, an independent PC game studio building *Orbital*: a hand-written TypeScript/Vite frontend (no UI framework) backed by an Express + SQLite journal API.
+
 **[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model's downloaded, it runs entirely on-device: no internet connection, no cloud dependency to hold a conversation, and a small dependency-free knowledge engine as a safety net when no model is loaded yet.
 
 **[RemiChain](https://github.com/aayanahmed200/remichain)** — matches surplus medical supplies with the facilities that need them, so usable equipment and medication don't expire in storage while other clinics run short.
