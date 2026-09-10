@@ -4,7 +4,7 @@ AI and education technology, mostly. I build offline-first AI systems and try to
 
 ## What I'm building
 
-**[arthic](https://github.com/aayanahmed200/arthic)** — the production site for arthic.tech, an independent PC game studio building *Orbital*: a hand-written TypeScript/Vite frontend (no UI framework) backed by an Express + SQLite journal API.
+**[arthic](https://github.com/aayanahmed200/arthic)** — an all-in-one, bilingual (English/Urdu) exam-prep platform for Pakistan's toughest entrance tests: MDCAT, ECAT, NUST NET, FAST, CSS, PMS, and LUMS LNAT. An AI mentor, organized past papers, a personalized study plan, and an exam calendar in one place — currently in early access at [arthic.tech](https://arthic.tech). Hand-written TypeScript/Vite frontend (no UI framework), Vercel serverless functions + Postgres for the API.
 
 **[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model's downloaded, it runs entirely on-device: no internet connection, no cloud dependency to hold a conversation, and a small dependency-free knowledge engine as a safety net when no model is loaded yet.
 
