@@ -1,32 +1,36 @@
 # Aayan Ahmed
 
-AI and education technology, mostly. I build offline-first AI systems and try to make sure low-resource languages don't get left out of the conversation — and every project below ships with real tests, an honest README about what actually works, and an MIT license.
+AI and education technology, mostly. I build offline-first AI systems and try to make sure low-resource languages don't get left out of the conversation — and every project below ships with real code, real constraints, and a reason to exist.
+
+## Portfolio
+
+**[Personal portfolio](https://aayanahmed200.vercel.app)** — a multi-page, black-and-white portfolio covering my work in computer science, artificial intelligence, education, research, leadership, and public impact. The source is available in [`aayanahmed200/portfolio`](https://github.com/aayanahmed200/portfolio).
 
 ## What I'm building
 
-**[arthic](https://github.com/aayanahmed200/arthic)** — an all-in-one, bilingual (English/Urdu) exam-prep platform for Pakistan's toughest entrance tests: MDCAT, ECAT, NUST NET, FAST, CSS, PMS, and LUMS LNAT. An AI mentor, organized past papers, a personalized study plan, and an exam calendar in one place — currently in early access at [arthic.tech](https://arthic.tech). Hand-written TypeScript/Vite frontend (no UI framework), Vercel serverless functions + Postgres for the API.
+**[arthic](https://github.com/aayanahmed200/arthic)** — an all-in-one, bilingual (English/Urdu) exam-prep platform for Pakistan's toughest entrance tests: MDCAT, ECAT, NUST NET, FAST, CSS, PMS, and LUMS LNAT.
 
-**[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model's downloaded, it runs entirely on-device: no internet connection, no cloud dependency to hold a conversation, and a small dependency-free knowledge engine as a safety net when no model is loaded yet.
+**[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model is downloaded, it runs entirely on-device.
 
-**[RemiChain](https://github.com/aayanahmed200/remichain)** — matches surplus medical supplies with the facilities that need them, so usable equipment and medication don't expire in storage while other clinics run short.
+**[RemiChain](https://github.com/aayanahmed200/remichain)** — matches surplus medical supplies with facilities that need them, so usable equipment and medication do not expire in storage.
 
-**Nishaan Education** — a learning platform I founded to make education more accessible. 80,000+ learners reached, a 1,200+ student community, and 30+ GB of resources shared so far.
+**Nishaan Education** — a learning platform I founded to make education more accessible. 80,000+ people reached, a 1,200+ student community, and 30+ GB of resources shared so far.
 
 ### Stanford Daily
 
 Four projects built for the Stanford Daily Tech Bootcamp:
 
-**[Stanford Daily: The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — a data-journalism piece asking what a Stanford degree actually costs and pays off, built on the U.S. Department of Education's College Scorecard and BLS inflation data rather than the sticker price everyone quotes.
+**[Stanford Daily: The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — a data-journalism piece asking what a Stanford degree actually costs and returns.
 
-**[Stanford Daily: Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — a short story built on top of 139 real campus police-blotter reports, about what the fixed categories and codes of institutional crime reporting quietly leave out.
+**[Stanford Daily: Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — a short story built on patterns from 139 Stanford Daily police-blotter reports.
 
-**[Stanford Daily: Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — a data extraction and validation pipeline that turns ICE press releases into structured records (who, when, where) for accountability reporting, built for a data journalism assignment.
+**[Stanford Daily: Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — an extraction and validation pipeline for ICE press releases.
 
-**[Stanford Daily: PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — an exploratory analysis of Plastic List's food chemical testing data, looking at how Stanford dining hall samples compare to everything else tested.
+**[Stanford Daily: PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — exploratory analysis of food-chemical testing data across Bay Area products.
 
 ## Elsewhere
 
-Student at Aitchison College, currently deep in Java and AI systems. Along the way: CS50, Elements of AI, the LUMS AI Bootcamp, the Stanford Daily Tech Bootcamp, and a couple of writing and business-plan competitions.
+A-Level student at Aitchison College studying Physics, Computer Science, Mathematics, and History. I am interested in AI, education, research, public-interest technology, and building things that are useful beyond a demo.
 
 ## Stack
 
