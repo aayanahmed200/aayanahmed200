@@ -10,7 +10,7 @@ I build software across **artificial intelligence, education technology, and pub
 
 **[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded. It has grown to a community of 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
 
-**[Arthic](https://arthic.tech)** · [Source](https://github.com/aayanahmed200/arthic) — An early-access exam-preparation platform for Pakistani entrance tests. The current product is English-first; the AI mentor is still in development.
+**[Arthic](https://arthic.tech)** · [Source](https://github.com/aayanahmed200/arthic) — An early-access exam-preparation platform for Pakistani entrance tests. The current site is English-only; Urdu-language support and the AI mentor are not live yet.
 
 **[Zariya](https://github.com/aayanahmed200/zariya)** — An offline-first assistant for Urdu and other low-resource languages. The actively developed Flask web app supports local Ollama inference, token streaming, and an offline knowledge fallback; an earlier Streamlit/llama.cpp version is also retained. Optional cloud integrations are separate opt-ins.
 
