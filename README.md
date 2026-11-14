@@ -1,44 +1,52 @@
 # Aayan Ahmed
 
-AI and education technology, mostly. I build offline-first AI systems and try to make sure low-resource languages don't get left out of the conversation — and every project below ships with real code, real constraints, and a reason to exist.
+A-Level student at Aitchison College · Lahore, Pakistan
 
-## Portfolio
+I build software across **artificial intelligence, education technology, and public-interest research**. I'm especially interested in offline-first language tools, accessible learning platforms, and using data to investigate real-world questions.
 
-**[Personal portfolio](https://aayanahmed200.vercel.app)** — a multi-page, black-and-white portfolio covering my work in computer science, artificial intelligence, education, research, leadership, and public impact. The source is available in [`aayanahmed200/portfolio`](https://github.com/aayanahmed200/portfolio).
+[Portfolio](https://aayanahmed200.vercel.app) · [LinkedIn](https://linkedin.com/in/aayanahmed20) · [GitHub](https://github.com/aayanahmed200)
 
-## What I'm building
+## Selected work
 
-**[arthic](https://github.com/aayanahmed200/arthic)** — an all-in-one, bilingual (English/Urdu) exam-prep platform for Pakistan's toughest entrance tests: MDCAT, ECAT, NUST NET, FAST, CSS, PMS, and LUMS LNAT.
+**[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded. It has grown to a community of 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
 
-**[Zariya](https://github.com/aayanahmed200/zariya)** — an offline-first AI assistant for Urdu and other low-resource languages. Once a model is downloaded, it runs entirely on-device.
+**[Arthic](https://arthic.tech)** · [Source](https://github.com/aayanahmed200/arthic) — An early-access exam-preparation platform for Pakistani entrance tests. The current product is English-first; the AI mentor is still in development.
 
-**[RemiChain](https://github.com/aayanahmed200/remichain)** — matches surplus medical supplies with facilities that need them, so usable equipment and medication do not expire in storage.
+**[Zariya](https://github.com/aayanahmed200/zariya)** — An offline-first assistant for Urdu and other low-resource languages. The actively developed Flask web app supports local Ollama inference, token streaming, and an offline knowledge fallback; an earlier Streamlit/llama.cpp version is also retained. Optional cloud integrations are separate opt-ins.
 
-**Nishaan Education** — a learning platform I founded to make education more accessible. 80,000+ people reached, a 1,200+ student community, and 30+ GB of resources shared so far.
+**[RemiChain](https://github.com/aayanahmed200/remichain)** — A Flask prototype for matching surplus medical supplies with facility requests. Its matching logic scores urgency, proximity, quantity fit, and expiry proximity; the repository includes a pytest suite.
 
-### Stanford Daily
+**[Diabetic Retinopathy Model Comparison](https://github.com/aayanahmed200/diabetic-retinopathy-vlm-comparison)** — A research scaffold comparing Gemini, MedGemma, and RetiZero for retinal-image grading. Important caveat: the checked-in pilot results use synthetic data and seeded mock predictions; real model inference has not yet been run.
 
-Four projects built for the Stanford Daily Tech Bootcamp:
+## Data, analysis & writing
 
-**[Stanford Daily: The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — a data-journalism piece asking what a Stanford degree actually costs and returns.
+A set of projects built for the Stanford Daily Tech Bootcamp:
 
-**[Stanford Daily: Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — a short story built on patterns from 139 Stanford Daily police-blotter reports.
+- **[The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — A data-journalism investigation into the cost and returns of a Stanford degree, using College Scorecard, BLS/FRED, and related research data.
+- **[Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — A Python pipeline that extracts and validates structured fields from a 965-release public dataset.
+- **[PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — Exploratory analysis of 618 lab samples across 236 Bay Area food and beverage products, with sample-size and measurement caveats documented.
+- **[Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — A short fictional story shaped by patterns in 139 Stanford Daily blotter articles. The story itself is fiction, not reporting.
 
-**[Stanford Daily: Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — an extraction and validation pipeline for ICE press releases.
+## Research & community
 
-**[Stanford Daily: PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — exploratory analysis of food-chemical testing data across Bay Area products.
+- **Lahore University of Management Sciences (LUMS)** — Research Assistant on QGAL, a project focused on quantifying generative-AI literacy.
+- **New York Academy of Sciences · The Junior Academy** — Junior Researcher on BrainTech / brain-computer-interface work.
+- **National CERT, Pakistan** — Contributed to a cybersecurity-awareness course that was later adopted for nationwide implementation.
+- **Nishaan Education** — Founder, building accessible learning opportunities for students.
 
-## Elsewhere
+## Toolkit
 
-A-Level student at Aitchison College studying Physics, Computer Science, Mathematics, and History. I am interested in AI, education, research, public-interest technology, and building things that are useful beyond a demo.
+| Area | Tools and topics |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, C, HTML/CSS |
+| AI & machine learning | PyTorch, TensorFlow, scikit-learn, computer vision, NLP, generative AI |
+| Frameworks & data | Flask, Vite, Node.js, PostgreSQL, SQLite, Streamlit |
+| Developer tools | Git, GitHub, Vercel, Jupyter, Google Colab |
 
-## Stack
+## Currently studying
 
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+A-Level History, Computer Science, Mathematics, and Physics at Aitchison College.
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE).
+Contact: [aayanahmed2913@gmail.com](mailto:aayanahmed2913@gmail.com)
