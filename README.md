@@ -18,12 +18,6 @@ I’m an A-Level student in Lahore, aspiring to become an **AI Product Manager**
 - **[PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — Exploratory analysis of lab samples across food and beverage products.
 - **[Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — A fictional story inspired by patterns in Stanford Daily police-blotter data.
 
-## Research and community
-
-- **Lahore University of Management Sciences (LUMS)** — Research Assistant on QGAL, focused on generative-AI literacy.
-- **New York Academy of Sciences · The Junior Academy** — Junior Researcher on BrainTech and brain-computer-interface work.
-- **National CERT, Pakistan** — Contributed to a cybersecurity-awareness course later adopted for nationwide implementation.
-- **Nishaan Education** — Founder, building accessible learning opportunities for students.
 
 ## Product and technology interests
 
