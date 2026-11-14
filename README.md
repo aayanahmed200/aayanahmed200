@@ -1,30 +1,33 @@
 # Aayan Ahmed
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+I’m an A-Level student in Lahore, aspiring to become an **AI Product Manager**. I’m interested in turning AI capabilities into useful products by understanding people’s problems, shaping product ideas, and testing what creates real value.
 
-Student developer based in Lahore, Pakistan, working across artificial intelligence, education technology, and public-interest research.
+## Projects
 
-## Overview
+- **[Nishaan Education](https://nishaanedu.lovable.app/)** — Founded a free learning initiative that has grown to 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
+- **[Arthic](https://github.com/aayanahmed200/arthic)** · [Live product](https://arthic.tech) — An early-access exam-preparation platform for Pakistani entrance tests.
+- **[Zariya](https://github.com/aayanahmed200/zariya)** — An offline-first assistant for Urdu and other low-resource languages, with local AI inference and an offline knowledge fallback.
+- **[RemiChain](https://github.com/aayanahmed200/remichain)** — A prototype matching surplus medical supplies with facility requests.
+- **[Diabetic Retinopathy Model Comparison](https://github.com/aayanahmed200/diabetic-retinopathy-vlm-comparison)** — A research scaffold exploring Gemini, MedGemma, and RetiZero. The checked-in pilot uses synthetic data, not real model results.
+- **[The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — A data-journalism investigation into Stanford tuition, financial aid, student costs, and graduate earnings.
+- **[Big Local News Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — A Python pipeline for extracting and validating structured information from public press releases.
+- **[PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — Exploratory analysis of lab samples across food and beverage products.
+- **[Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — A fictional story inspired by patterns in Stanford Daily police-blotter data.
 
-I’m interested in building useful technology around practical problems: offline-first language tools, accessible learning platforms, and data-driven research. My work combines software development with education access and community projects.
+## Research and community
 
-## Highlights
+- **Lahore University of Management Sciences (LUMS)** — Research Assistant on QGAL, focused on generative-AI literacy.
+- **New York Academy of Sciences · The Junior Academy** — Junior Researcher on BrainTech and brain-computer-interface work.
+- **National CERT, Pakistan** — Contributed to a cybersecurity-awareness course later adopted for nationwide implementation.
+- **Nishaan Education** — Founder, building accessible learning opportunities for students.
 
-- **Nishaan Education** — Founded a free learning initiative that has grown to a community of 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
-- **Arthic** — Building an early-access exam-preparation platform for Pakistani entrance tests. The current product is English-only; Urdu support and the AI mentor are not live yet.
-- **Zariya** — An offline-first assistant for Urdu and other low-resource languages, with local Ollama inference, token streaming, and an offline knowledge fallback.
-- **RemiChain** — A Flask prototype for matching surplus medical supplies with facility requests using urgency, proximity, quantity fit, and expiry proximity.
-- **AI research** — A research scaffold comparing Gemini, MedGemma, and RetiZero; the checked-in pilot uses synthetic data and seeded mock predictions.
-- **Data and writing** — Investigations into university costs, PlasticList lab samples, Big Local News press releases, and fiction inspired by Stanford Daily reporting.
-- **Research and community** — QGAL generative-AI literacy research at LUMS, BrainTech through the New York Academy of Sciences, and cybersecurity education with Pakistan’s National CERT.
+## Product and technology interests
 
-## Technology
+- **Product:** user problems, product discovery, prioritisation, experimentation, and measuring outcomes.
+- **AI and data:** generative AI, NLP, computer vision, PyTorch, and scikit-learn.
+- **Building:** Python, TypeScript, JavaScript, Flask, Vite, PostgreSQL, and SQLite.
 
-- **Languages:** Python, TypeScript, JavaScript, C, HTML, and CSS.
-- **AI and machine learning:** PyTorch, TensorFlow, scikit-learn, computer vision, NLP, and generative AI.
-- **Frameworks and data:** Flask, Vite, Node.js, PostgreSQL, SQLite, and Streamlit.
-- **Developer tools:** Git, GitHub, Vercel, Jupyter, and Google Colab.
+## Links
 
-## Notes and limitations
-
-Arthic remains in early access and its AI mentor is in development. Zariya is an ongoing project; RemiChain is a prototype. The retinopathy repository’s checked-in pilot is synthetic and is not evidence of real model performance.
+- [Portfolio](https://aayanahmed200.vercel.app)
+- [LinkedIn](https://linkedin.com/in/aayanahmed20)
