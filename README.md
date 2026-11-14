@@ -26,8 +26,3 @@ I’m an A-Level student in Lahore, aspiring to become an **AI Product Manager**
 - **Product:** user problems, product discovery, prioritisation, experimentation, and measuring outcomes.
 - **AI and data:** generative AI, NLP, computer vision, PyTorch, and scikit-learn.
 - **Building:** Python, TypeScript, JavaScript, Flask, Vite, PostgreSQL, and SQLite.
-
-## Links
-
-- [Portfolio](https://aayanahmed200.vercel.app)
-- [LinkedIn](https://linkedin.com/in/aayanahmed20)
