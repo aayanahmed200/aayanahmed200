@@ -1,12 +1,16 @@
 # Aayan Ahmed
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+## Overview
+
 A-Level student at Aitchison College · Lahore, Pakistan
 
 I build software across **artificial intelligence, education technology, and public-interest research**. I'm especially interested in offline-first language tools, accessible learning platforms, and using data to investigate real-world questions.
 
 [Portfolio](https://aayanahmed200.vercel.app) · [LinkedIn](https://linkedin.com/in/aayanahmed20) · [GitHub](https://github.com/aayanahmed200)
 
-## Selected work
+## Selected projects
 
 **[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded. It has grown to a community of 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
 
@@ -34,7 +38,7 @@ A set of projects built for the Stanford Daily Tech Bootcamp:
 - **National CERT, Pakistan** — Contributed to a cybersecurity-awareness course that was later adopted for nationwide implementation.
 - **Nishaan Education** — Founder, building accessible learning opportunities for students.
 
-## Toolkit
+## Technology
 
 | Area | Tools and topics |
 |---|---|
@@ -43,10 +47,12 @@ A set of projects built for the Stanford Daily Tech Bootcamp:
 | Frameworks & data | Flask, Vite, Node.js, PostgreSQL, SQLite, Streamlit |
 | Developer tools | Git, GitHub, Vercel, Jupyter, Google Colab |
 
-## Currently studying
+## Education
 
 A-Level History, Computer Science, Mathematics, and Physics at Aitchison College.
 
 ---
 
-Contact: [aayanahmed2913@gmail.com](mailto:aayanahmed2913@gmail.com)
+## Links
+
+[Portfolio](https://aayanahmed200.vercel.app) · [LinkedIn](https://linkedin.com/in/aayanahmed20) · [GitHub](https://github.com/aayanahmed200)
