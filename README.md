@@ -12,18 +12,19 @@ Based in Lahore, Pakistan.
 
 **[Arthic](https://arthic.tech)** — An early-access exam-preparation platform for Pakistani entrance tests. The current site is English-only; Urdu support and the AI mentor are not live yet.
 
-**[Zariya](https://github.com/aayanahmed200/zariya)** — An offline-first assistant for Urdu and other low-resource languages. The actively developed Flask web app supports local Ollama inference, token streaming, and an offline knowledge fallback.
+**Zariya** — An offline-first assistant for Urdu and other low-resource languages. The actively developed Flask web app supports local Ollama inference, token streaming, and an offline knowledge fallback.
 
-**[RemiChain](https://github.com/aayanahmed200/remichain)** — A Flask prototype that matches surplus medical supplies with facility requests using urgency, proximity, quantity fit, and expiry proximity.
+**RemiChain** — A Flask prototype that matches surplus medical supplies with facility requests using urgency, proximity, quantity fit, and expiry proximity.
 
-**[Diabetic Retinopathy Model Comparison](https://github.com/aayanahmed200/diabetic-retinopathy-vlm-comparison)** — A research scaffold comparing Gemini, MedGemma, and RetiZero. The checked-in pilot uses synthetic data and seeded mock predictions; real model inference has not yet been run.
+**Diabetic Retinopathy Model Comparison** — A research scaffold comparing Gemini, MedGemma, and RetiZero. The checked-in pilot uses synthetic data and seeded mock predictions; real model inference has not yet been run.
 
-## Data, analysis, and writing
+**The Price of Prestige** — A data-journalism investigation into the cost and returns of a Stanford degree, using College Scorecard and BLS/FRED data.
 
-- **[The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** — Data-journalism investigation into the cost and returns of a Stanford degree, using College Scorecard and BLS/FRED data.
-- **[Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** — Python pipeline for extracting and validating structured fields from a 965-release public dataset.
-- **[PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** — Exploratory analysis of 618 lab samples across 236 Bay Area food and beverage products, with sample-size and measurement caveats.
-- **[Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** — Fiction inspired by patterns in 139 Stanford Daily blotter articles; the story is not reporting.
+**Big Local News ICE Extraction Pipeline** — A Python pipeline for extracting and validating structured fields from a 965-release public dataset.
+
+**PlasticList EDA** — Exploratory analysis of 618 lab samples across 236 Bay Area food and beverage products, with sample-size and measurement caveats.
+
+**Blotter Fiction** — Fiction inspired by patterns in 139 Stanford Daily blotter articles; the story is not reporting.
 
 ## Research and community
 
