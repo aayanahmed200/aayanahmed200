@@ -26,4 +26,4 @@ Python, TypeScript, JavaScript, Flask, Vite, PostgreSQL, SQLite, pandas, PyTorch
 
 ## License
 
-The profile repository is MIT licensed; see [LICENSE](LICENSE).
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
