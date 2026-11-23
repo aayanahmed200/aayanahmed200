@@ -7,7 +7,7 @@ I’m an A-Level student in Lahore, aspiring to become an **AI Product Manager**
 - **[Nishaan Education](https://nishaanedu.lovable.app/)** — Founded a free learning initiative that has grown to 1,200+ learners, reached 80,000+ people globally, and built partnerships with five international organisations.
 - **[Arthic](https://github.com/aayanahmed200/arthic)** · [Live product](https://arthic.tech) — An early-access exam-preparation platform for Pakistani entrance tests.
 - **[Zariya](https://github.com/aayanahmed200/zariya)** — An offline-first assistant for Urdu and other low-resource languages, with local AI inference and an offline knowledge fallback.
-- **[RemiChain](https://github.com/aayanahmed200/remichain)** — A prototype matching surplus medical supplies with facility requests.
+- **[RemiChain](https://github.com/aayanahmed200/remichain)** · [Live product](https://remichain.vercel.app) — A Flask app that matches surplus medical supplies with facility requests before the stock expires.
 - **[Diabetic Retinopathy Model Comparison](https://github.com/aayanahmed200/diabetic-retinopathy-vlm-comparison)** — A research scaffold exploring Gemini, MedGemma, and RetiZero. The checked-in pilot uses synthetic data, not real model results.
 
 
