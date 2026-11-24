@@ -14,7 +14,7 @@ This is the public profile README for my GitHub account. It highlights the appli
 
 - **[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded, with 1,200+ learners, 80,000+ people reached globally, and partnerships with five international organisations.
 - **[Arthic](https://github.com/aayanahmed200/arthic)** · [Live product](https://arthic.tech) — An early-access exam-preparation platform for Pakistani entrance tests. The current public experience includes an interactive sample practice preview; student accounts and several learning features remain in development.
-- **[Zariya](https://github.com/aayanahmed200/zariya)** · [Live application](https://zariyas.vercel.app/) — An Urdu-English assistant with hosted AI chat, voice transcription, notes, flashcards, and a curated fallback engine.
+- **[Zariya](https://github.com/aayanahmed200/zariya)** · [Live application](https://zariya.vercel.app/) — An Urdu-English assistant with hosted AI chat, voice transcription, notes, flashcards, and a curated fallback engine.
 - **[RemiChain](https://github.com/aayanahmed200/remichain)** · [Live application](https://remichain.vercel.app/) — A Flask app that scores matches between surplus medical supplies and facility requests.
 - **[Diabetic Retinopathy Model Comparison](https://github.com/aayanahmed200/diabetic-retinopathy-vlm-comparison)** — A research scaffold for Gemini, MedGemma, and RetiZero. The verified, committed pilot uses synthetic data and mock predictions, not real model results.
 
