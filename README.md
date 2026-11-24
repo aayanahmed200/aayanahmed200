@@ -6,10 +6,6 @@ A-Level student in Lahore interested in AI product management: understanding use
 
 [![Portfolio](https://img.shields.io/badge/portfolio-171815?style=for-the-badge&logo=vercel&logoColor=white)](https://aayanahmed200.vercel.app/) [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![AI and data](https://img.shields.io/badge/AI%20%26%20Data-526078?style=for-the-badge)](https://github.com/aayanahmed200)
 
-## Overview
-
-This is the public profile README for my GitHub account. It highlights the applications, research prototypes, and data-journalism projects I have been building.
-
 ## Featured projects
 
 - **[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded, with 1,200+ learners, 80,000+ people reached globally, and partnerships with five international organisations.
