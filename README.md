@@ -2,8 +2,6 @@
 
 A-Level student in Lahore interested in AI product management: understanding user problems, shaping useful product ideas, and testing whether technology creates meaningful value.
 
-**Portfolio:** [aayanahmed200.vercel.app](https://aayanahmed200.vercel.app/) · **GitHub:** [@aayanahmed200](https://github.com/aayanahmed200)
-
 [![Portfolio](https://img.shields.io/badge/portfolio-171815?style=for-the-badge&logo=vercel&logoColor=white)](https://aayanahmed200.vercel.app/) [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![AI and data](https://img.shields.io/badge/AI%20%26%20Data-526078?style=for-the-badge)](https://github.com/aayanahmed200)
 
 ## Featured projects
