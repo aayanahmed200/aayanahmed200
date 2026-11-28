@@ -6,6 +6,7 @@ A-Level student in Lahore interested in AI product management: understanding use
 
 ## Featured projects
 
+- **ACLLCF III** — Building a Vercel-based event website and scoring platform for the Aitchison College Literary, Languages & Cultural Festival, with separate team and delegation standings and protected category-head scoring.
 - **[Nishaan Education](https://nishaanedu.lovable.app/)** — A free learning initiative I founded, with 1,200+ learners, 80,000+ people reached globally, and partnerships with five international organisations.
 - **[Arthic](https://github.com/aayanahmed200/arthic)** · [Live product](https://arthic.tech) — An early-access exam-preparation platform for Pakistani entrance tests. The current public experience includes an interactive sample practice preview; student accounts and several learning features remain in development.
 - **[Zariya](https://github.com/aayanahmed200/zariya)** · [Live application](https://zariya.vercel.app/) — An Urdu-English assistant with hosted AI chat, voice transcription, notes, flashcards, and a curated fallback engine.
@@ -19,7 +20,7 @@ Four projects exploring different datasets and reporting methods:
 - **[The Price of Prestige](https://github.com/aayanahmed200/stanford-daily-price-of-prestige)** · [Read the report](https://aayanahmed200.github.io/stanford-daily-price-of-prestige/) — An analysis of Stanford's published cost, financial aid, and graduate outcomes using College Scorecard and BLS data.
 - **[Big Local News ICE Extraction Pipeline](https://github.com/aayanahmed200/stanford-daily-biglocal-ice-pipeline)** · [Read the project page](https://aayanahmed200.github.io/stanford-daily-biglocal-ice-pipeline/) — A Python pipeline for extracting and validating structured fields from public ICE press releases. The published coverage figures are from a five-row smoke test.
 - **[PlasticList EDA](https://github.com/aayanahmed200/stanford-daily-plasticlist-eda)** · [Read the report](https://aayanahmed200.github.io/stanford-daily-plasticlist-eda/) — An exploratory analysis of 618 lab samples across 236 food and beverage products, including Stanford dining samples.
-- **[Lot 95 — Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** · [Read the story](https://aayanahmed200.github.io/stanford-daily-blotter-fiction/) — A fictional short story inspired by patterns in 139 Stanford Daily police-blotter articles.
+- **[Lot 95 — Blotter Fiction](https://github.com/aayanahmed200/stanford-daily-blotter-fiction)** · [Read the story](https://aayanahmed200/stanford-daily-blotter-fiction/) — A fictional short story inspired by patterns in 139 Stanford Daily police-blotter articles.
 
 ## Interests and tools
 
